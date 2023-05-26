@@ -16,6 +16,14 @@
      4. session
      5. global-session
 12. Lazy initialization
+13. DAO Pattern
+     - Add method to interface (StudentDAO.java)
+     - Implement it(StudentDAOImpl.java)
+     - Use it in the main class
+15. JPA Pattern
+16. JPA
+17. entityManager - JPA
+18. Hibernate
 
 --- 
 
@@ -39,5 +47,8 @@
      - return the S3 object from that function
      - Now, Use the functionName as a Bean class and do Constructor Injection/ Setter Injection, etc.
 12. @Configurable ?
+13. @Entity
+14. @Transactional
+15. @Repository
 
 
