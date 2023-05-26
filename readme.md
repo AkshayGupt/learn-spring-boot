@@ -20,10 +20,12 @@
      - Add method to interface (StudentDAO.java)
      - Implement it(StudentDAOImpl.java)
      - Use it in the main class
-15. JPA Pattern
-16. JPA
-17. entityManager - JPA
-18. Hibernate
+     - https://www.digitalocean.com/community/tutorials/dao-design-pattern
+14. JPA Pattern
+     - https://www.digitalocean.com/community/tutorials/spring-data-jpa
+15. JPA
+16. entityManager - JPA
+17. Hibernate
 
 --- 
 
