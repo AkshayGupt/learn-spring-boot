@@ -1,0 +1,72 @@
+Spring core topics
+-------------------
+1. Dependency Injection
+2. Inversion of control (IOC)
+3. Spring Bean Lifecycle
+4. Aspect oriented programming (AOP)
+	1. Point cut, Join Point, aspect, target, advice, etc
+	2. How to achieve AOP ?
+5. Application context
+6. ORM - Hibernate (will help in Data JPA) (Optional)
+7. Spring container
+
+Spring Web
+-----------------
+1. 20 Important Annotations
+2. Spring boot basics
+3. Spring boot autoconfiguration
+4. Top 5 Spring boot starter dependencies
+5. Spring MVC using Spring boot
+6. Spring data JPA
+7. Spring boot actuator
+8. Creating REST Apis
+9. Jackson
+11. Profiles (related to deployment)
+12. Importance of Spring boot
+13. Pros and cons of Spring boot and spring 
+14. Pros and cons of Spring boot and NodeJS
+15. Http Methods and HTTP Status Codes
+16. SQL
+
+Patterns
+---------
+1. Repository pattern
+2. DTO Pattern
+
+
+Spring DB
+----------
+1. Spring JDBC
+2. Spring Hibernate
+3. SPring JPA
+4. SPring Data JPA
+
+Spring security
+--------------
+ 1. Authentication
+ 2. Authorization
+ 3. OAuth2
+ 4. Form Authentications
+ 5. JWT
+
+
+MAVEN
+------
+
+Microservices patterns
+----------------------
+1. Aggregator
+2. CQRS
+3. SAGA
+4. Event Sourcing
+
+Basic knowledge What, Why, Where ?
+1. Docker
+2. AWS
+3. Kubernetes
+
+Application used for Logging ? 
+
+Application used for monitoring ?
+
+Link: https://roadmap.sh/spring-boot

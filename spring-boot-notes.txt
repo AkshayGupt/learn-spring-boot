@@ -1,0 +1,12 @@
+1. How do you differentiate a test file as a unit test or integration test?
+2. What happens when we name a test file as *IT.java? Is it only specific to Intellije ?
+3. Which is better DAO pattern or JPA ? And Why ?
+4. What starter dependencies is used for both the patterns ? 
+5.
+
+
+Annotations
+
+1. @Repository
+2. @Entity
+3. @Service
